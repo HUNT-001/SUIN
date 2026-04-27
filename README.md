@@ -1,2 +1,2 @@
-# SUIN
-A smart urban city node using an ESP32
+# 🚦 Smart Urban Infrastructure Node (SUIN)
+AI-Powered Modular Smart City System using ESP32
