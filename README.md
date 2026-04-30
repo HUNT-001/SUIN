@@ -16,23 +16,23 @@ Delayed emergency response
 
 - SUIN addresses these issues by providing a localized, intelligent decision-making node.
 
-##  💡 Key Features
-# 🚥 Smart Traffic Control
+#  💡 Key Features
+## 🚥 Smart Traffic Control
 -Adaptive signal system based on vehicle presence
 -Reduces idle time and congestion
 -Dynamic switching using sensor inputs
-# 🌃 Smart Street Lighting
+## 🌃 Smart Street Lighting
 -LDR-based ambient light detection
 -Automatic brightness control
 -Energy-efficient operation
-# 🌫️ Environmental Monitoring
+## 🌫️ Environmental Monitoring
 -Temperature & humidity sensing (DHT22)
 -Extendable to air quality monitoring
 -Real-time data tracking
-# 🗑️ Smart Waste Management
+## 🗑️ Smart Waste Management
 -Ultrasonic sensor detects bin fill level
 -Alerts when threshold is reached
-# 🚨 Public Safety System
+## 🚨 Public Safety System
 PIR sensor detects motion
 Emergency button triggers buzzer alert
 Designed for child safety & emergency response
