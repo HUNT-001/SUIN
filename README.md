@@ -102,7 +102,7 @@ Delayed emergency response
 - Smart energy optimization
 - Anomaly detection (safety events)
 - Predictive maintenance alerts
-- 
+
 # 🧪 Simulation
 
 ## This project is implemented using:
@@ -110,7 +110,7 @@ Delayed emergency response
 - Wokwi Simulator
 - ESP32 firmware logic
 - Modular testing of each subsystem
-- 
+
 # 🚀 Future Enhancements
 
 Cloud integration (AWS / Firebase)
