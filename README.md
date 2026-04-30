@@ -38,6 +38,7 @@ Emergency button triggers buzzer alert
 Designed for child safety & emergency response
 
 # 🏗️ System Architecture
+```
                 +----------------------+
                 |      ESP32 MCU       |
                 +----------+-----------+
@@ -48,6 +49,7 @@ Designed for child safety & emergency response
  Signal   Sensor   Sensor     Sensor    Sensor       Button
   LEDs                           |                   |
                                  ---------> Buzzer
+```
 # 🔌 Hardware Components
 Component	Purpose
 ESP32-WROOM-32	Main controller
