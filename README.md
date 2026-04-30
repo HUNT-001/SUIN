@@ -160,5 +160,3 @@ Focused on AI + Embedded Systems + Smart Infrastructure
 
 # ⭐ Final Note
 SUIN is not just a prototype — it represents a scalable vision for decentralized smart city infrastructure, where each node independently makes intelligent decisions while contributing to a larger urban network.
-
-SUIN is not just a prototype — it represents a scalable vision for decentralized smart city infrastructure, where each node independently makes intelligent decisions while contributing to a larger urban network.
